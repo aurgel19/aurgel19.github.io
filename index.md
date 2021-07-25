@@ -1,8 +1,3 @@
----
-layout: default
-title: Portfolio
----
-
 <!DOCTYPE html>
 <html>
 <body>
