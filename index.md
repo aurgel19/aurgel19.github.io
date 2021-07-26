@@ -3,6 +3,10 @@ I am a Gameplay Programmer proficient in Java, C#, and Unity.
 
 # Personal Projects
 ## High Tide
+
+https://user-images.githubusercontent.com/76503369/127036694-6f0efaf7-ef09-4e93-a665-1938294c2729.mp4
+
+
 A short platformer game about escaping from a flooding cave made using Unity. Includes climbable ladders, spike hazards, slime enemies, and rising water.
 
 ## Breakout Clone
@@ -10,6 +14,10 @@ A Breakout clone made using Unity. Added a variety of powerups:
 - Increase paddle size
 - Decrease paddle size
 - Spawn another ball
+
+
+
+
 - Increase paddle speed
 - Add 1000 bonus points
 
