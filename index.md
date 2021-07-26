@@ -4,7 +4,7 @@ I am a Gameplay Programmer proficient in Java, C#, and Unity.
 # Personal Projects
 ## High Tide
 
-<video src ="https://user-images.githubusercontent.com/76503369/127036694-6f0efaf7-ef09-4e93-a665-1938294c2729.mp4">
+<video src ="https://user-images.githubusercontent.com/76503369/127036694-6f0efaf7-ef09-4e93-a665-1938294c2729.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
 
