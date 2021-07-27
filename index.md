@@ -7,7 +7,8 @@ I am a Gameplay Programmer proficient in Java, C#, and Unity.
 <video src ="https://user-images.githubusercontent.com/76503369/127036694-6f0efaf7-ef09-4e93-a665-1938294c2729.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-A short platformer game about escaping from a flooding cave made using Unity. Includes climbable ladders, spike hazards, slime enemies, and rising water.
+A short platformer game about escaping from a flooding cave made using Unity. Includes climbable ladders, spike hazards, slime enemies, and rising water.  
+  
 Click [here](https://github.com/aurgel19/High-Tide) to download.
 
 ## Breakout Clone
@@ -19,7 +20,8 @@ A Breakout clone made using Unity. Added a variety of powerups:
 - Decrease paddle size
 - Spawn another ball
 - Increase paddle speed
-- Add 1000 bonus points
+- Add 1000 bonus points  
+  
 Click [here](https://github.com/aurgel19/Breakout-Unity) to download.
 
 
@@ -28,19 +30,22 @@ Click [here](https://github.com/aurgel19/Breakout-Unity) to download.
 <video src ="https://user-images.githubusercontent.com/76503369/127229538-3d81a61a-c29d-4bb2-88a0-d57e15618299.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-A clone of the classic Pong game made using BlueJ. The game is playable by two players. The ball speeds up every time it's hit, capping when it reaches twice its original speed. Added three powerups: increase ball size, decrease ball size, and spawn new ball.
+A clone of the classic Pong game made using BlueJ. The game is playable by two players. The ball speeds up every time it's hit, capping when it reaches twice its original speed. Added three powerups: increase ball size, decrease ball size, and spawn new ball.  
+  
 Click [here](https://github.com/aurgel19/Pong-2) to download.
 
 ## Plane Dodger
 <video src ="https://user-images.githubusercontent.com/76503369/127229935-53715b4d-8593-4a23-a7a3-a7f7245e53a6.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-A clone of Flappy Bird made using BlueJ. The player taps the up arrow to make the plane fly upward. They must collect stars to earn points, avoid enemy planes, and keep their plane in the air. The player's high score is saved and displayed on the main menu.
+A clone of Flappy Bird made using BlueJ. The player taps the up arrow to make the plane fly upward. They must collect stars to earn points, avoid enemy planes, and keep their plane in the air. The player's high score is saved and displayed on the main menu.  
+  
 Click [here](https://github.com/aurgel19/Plane-Dodger) to download.
 
 ## Space Rocks
 <video src ="https://user-images.githubusercontent.com/76503369/127230598-54020e4e-3dad-4d58-a926-72a6a548b05c.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-A clone of the classic Asteroids game made using BlueJ. The player controls a spaceship to destroy asteroids, can press 'H' to teleport to a random location, and can collect powerups to increase the shield's size.
+A clone of the classic Asteroids game made using BlueJ. The player controls a spaceship to destroy asteroids, can press 'H' to teleport to a random location, and can collect powerups to increase the shield's size.  
+  
 Click [here](https://github.com/aurgel19/Space-Rocks) to download.
