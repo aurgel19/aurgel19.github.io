@@ -7,10 +7,13 @@ I am a Gameplay Programmer proficient in Java, C#, and Unity.
 <video src ="https://user-images.githubusercontent.com/76503369/127036694-6f0efaf7-ef09-4e93-a665-1938294c2729.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
-
 A short platformer game about escaping from a flooding cave made using Unity. Includes climbable ladders, spike hazards, slime enemies, and rising water.
 
+
 ## Breakout Clone
+<video src ="https://user-images.githubusercontent.com/76503369/127226278-f7d43869-2db7-4ded-8908-23a54b573bcf.mp4" controls="controls" style="max-width: 730px;">
+</video>
+
 A Breakout clone made using Unity. Added a variety of powerups: 
 - Increase paddle size
 - Decrease paddle size
