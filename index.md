@@ -2,6 +2,12 @@
 I am a Gameplay Programmer proficient in Java, C#, and Unity.
 
 # Personal Projects
+## Soup for the Spirits
+
+Created as a personal project to practice creating dialogue with Yarn Spinner. The player is a chef who makes soup for recently deceased spirits by clicking and dragging ingredients into a pot.
+
+Click [here](https://github.com/aurgel19/Soup-for-the-Spirits) to download.
+
 ## Not Enough Space
 
 <video src ="https://user-images.githubusercontent.com/76503369/129491802-f39f8539-e763-47c7-a42e-e3c0d957f8f2.mp4" controls="controls" style="max-width: 730px;">
