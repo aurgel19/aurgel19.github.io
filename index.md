@@ -1,5 +1,5 @@
 # Game Programmer Portfolio
-I am a Gameplay Programmer proficient in Java, C#, and Unity.
+I am a Gameplay Programmer with strong Unity scripting skills who specializes in designing, testing, and implementing gameplay features.
 
 # Personal Projects
 ## Soup for the Spirits
