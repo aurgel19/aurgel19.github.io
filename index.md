@@ -4,7 +4,10 @@ I am a Gameplay Programmer with strong Unity scripting skills who specializes in
 # Personal Projects
 ## Scrap Fishing
 
+<video src ="https://user-images.githubusercontent.com/76503369/168910987-f08fc7d8-f462-43bb-88d9-6fd6ee9f4f09.mp4" controls="controls" style="max-width: 730px;">
+</video>
 
+A game about a lonely boy collecting scrap to build a robot friend. The player controls a heavy-duty magnet to collect useful pieces of scrap. They can then use the scrap to upgrade their magnet and build pieces of their robot.
 
 ## Soup for the Spirits
 
