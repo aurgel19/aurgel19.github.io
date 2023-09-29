@@ -1820,6 +1820,15 @@ input, select, textarea {
 			padding: 0;
 		}
 
+		.box > section > img {
+			width: 100%;
+			
+		}
+
+		.box > section > video {
+			width: 100%;
+		}
+
 /* Button */
 
 	input[type="submit"],
